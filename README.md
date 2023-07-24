@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-### <div> Hello I'm Melkamu  a self-motivated software developer  👨‍💻 </div>  
-  
-<div> 
+### <div> Hello I'm Melkamu  a self-motivated software developer  👨‍💻 </div> 
+
+ <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" style="width: 70%" />
 - 🔭 I’m currently learning on fronntend devlopment at microverse  
   
 
@@ -10,16 +10,16 @@
   
 
 - ⚡ Fun fact: I use tabs over spaces  
-</div>
-<div align="right">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 100%" />
-</div>  
+
+
+
+
+<br><br><br>
+
 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
