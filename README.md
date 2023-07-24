@@ -2,7 +2,7 @@
 
 ### <div> Hello I'm Melkamu  a self-motivated software developer  👨‍💻 </div>  
   
-
+<div> 
 - 🔭 I’m currently learning on fronntend devlopment at microverse  
   
 
@@ -10,9 +10,7 @@
   
 
 - ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
+</div>
 <div align="right">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 100%" />
 </div>  
@@ -84,16 +82,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=melkamu372&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
+ 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=melkamu372&&style=flat-square" align="center" />
@@ -105,5 +94,4 @@
 <div align="center"></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
