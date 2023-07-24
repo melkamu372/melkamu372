@@ -3,6 +3,7 @@
 ### <div> Hello I'm Melkamu  a self-motivated software developer  👨‍💻 </div> 
 
  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" style="width: 70%" />
+ 
 - 🔭 I’m currently learning on fronntend devlopment at microverse  
   
 
