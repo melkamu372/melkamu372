@@ -4,7 +4,7 @@
 
  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" style="width: 70%" />
  
-- 🔭 I’m currently I am Full stack devloper  
+- 🔭 I am Full stack devloper  
   
 
 - ❓ Ask me about anything related to web application and Application development technologies  
