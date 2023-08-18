@@ -10,7 +10,7 @@
 - ❓ Ask me about anything related to web application and Application development technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: Be creative. There is often more than one way to solve a problem. Don't be afraid to think outside the box.
 
 
 
