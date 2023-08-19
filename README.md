@@ -12,7 +12,6 @@
 - 👨‍💻 My Personal Website https://melkamu372.github.io/Melkamu-profile/
 - 🙋 Ask me about anything related to web application and Application development technologies  
 - 💬 Fun fact: Being creative. There is often more than one way to solve a problem. I'm not afraid to think outside the box.
-<br>
 
 ##  My Capabilities 
 
