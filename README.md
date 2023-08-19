@@ -1,24 +1,21 @@
-### Hi there 👋
-
-### <div> Hello I'm Melkamu  a self-motivated software developer  👨‍💻 </div> 
-
- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" style="width: 70%" />
+<div align="Center">
  
-- 🔭 I am Full stack devloper  
-  
+# Melkamu Tessema Full-Stack software  Developer👨‍💻
 
-- ❓ Ask me about anything related to web application and Application development technologies  
-  
+</div>
 
-- ⚡ Fun fact: Being creative. There is often more than one way to solve a problem. I'm not afraid to think outside the box.
+### Hi there 👋 I'm a self-motivated software developer
 
+ <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" style="width: 50%" />
+ 
+- 🚨 I am Full stack devloper  
+- 👨‍💻 My Personal Website https://melkamu372.github.io/Melkamu-profile/
+- 🙋 Ask me about anything related to web application and Application development technologies  
+- 💬 Fun fact: Being creative. There is often more than one way to solve a problem. I'm not afraid to think outside the box.
+<br>
 
+##  My Capabilities 
 
-<br><br><br>
-
-
-
-## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
