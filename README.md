@@ -8,11 +8,11 @@
 
  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" style="width: 50%" />
  
-- 🚨 I am Full stack developer  
-- 👨‍💻 Personal Website: [View Profile](https://melkamu372.github.io/Melkamu-profile/)
+- 🚨 I am Full stack developer
+- 👨‍💻 Personal Website: [https://melkamu372.github.io/Melkamu-profile/](https://melkamu372.github.io/Melkamu-profile/) 
 - 💞️ I’m looking to collaborate on any project.
-- 📫 You can reach out to me via linkedln: [Open Linkedln](https://www.linkedin.com/in/melkamu372/)
-- 💬 You can reach out to me via Email: [Contact](mailto:melkamu372@gmail.com)
+- 📫 You can reach out to me via linkedln: [https://www.linkedin.com/in/melkamu372/](https://www.linkedin.com/in/melkamu372/) 
+- 💬 You can reach out to me via Email: [melkamu372@gmail.com](mailto:melkamu372@gmail.com)
 - 🙋 Fun fact: Being creative. There is often more than one way to solve a problem. I'm not afraid to think outside the box.
 
 ##  My Capabilities 
