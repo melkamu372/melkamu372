@@ -2,18 +2,17 @@
 </div>
 
 ### Hi there 👋 I'm Melkamu self-motivated Full Stack Developer👨‍💻  you can reach out me via 
- <a href="https://linkedin.com/in/https://www.linkedin.com/in/melkamu372/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a> <a href="https://github.com/https://github.com/melkamu372" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a> 
- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" style="width: 50%" /> 
- 
+
+[![LinkedIn badge](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melkamu372/")
+[![GitHub badge](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/https://github.com/melkamu372)
+[![Skype badge](https://img.shields.io/badge/skype-%2300aff0.svg?&style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/DurrNA8nOQ0V)
+[![Telegram badge](https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/melkamu372)
+[![WhatsApp badge](https://img.shields.io/badge/whatsapp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+251945272182)
+
 - 💬 Via Email: [melkamu372@gmail.com](mailto:melkamu372@gmail.com)
-- 👨‍💻 Personal Website: [https://melkamu372.github.io/Melkamu-profile/](https://melkamu372.github.io/Melkamu-profile/) 
+- 👨‍💻 Website: [https://melkamu372.github.io/Melkamu-profile/](https://melkamu372.github.io/Melkamu-profile/) 
 - 💞️ I’m looking to collaborate on any project.
-- 🚨 I am searcheing Remote work
-- 📫 You can reach out to me via linkedln: [https://www.linkedin.com/in/melkamu372/](https://www.linkedin.com/in/melkamu372/) 
+- 🚨 I'm looking for remote work.
 - 🙋 Fun fact: Being creative. There is often more than one way to solve a problem. I'm not afraid to think outside the box.
 ---
 
