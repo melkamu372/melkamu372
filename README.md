@@ -4,7 +4,7 @@
 ### Hi there 👋 I'm Melkamu self-motivated Full Stack Developer👨‍💻  you can reach out me via 
 
 [![LinkedIn badge](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melkamu372/")
-[![GitHub badge](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/https://github.com/melkamu372)
+[![GitHub badge](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/melkamu372)
 [![Skype badge](https://img.shields.io/badge/skype-%2300aff0.svg?&style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/DurrNA8nOQ0V)
 [![Telegram badge](https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/melkamu372)
 [![WhatsApp badge](https://img.shields.io/badge/whatsapp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+251945272182)
