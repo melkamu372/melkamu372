@@ -21,12 +21,12 @@
 - 🙋 Fun fact: Being creative. There is often more than one way to solve a problem. I'm not afraid to think outside the box.
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melkamu372)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melkamu372&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 [![trophy](https://github-profile-trophy.vercel.app/?username=melkamu372&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=melkamu372&theme=dark)](https://git.io/streak-stats) <img src="https://github-readme-stats.vercel.app/api?username=melkamu372&show_icons=true&count_private=true&hide_border=true" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=melkamu372&theme=dark)](https://git.io/streak-stats)<img src="https://github-readme-stats.vercel.app/api?username=melkamu372&show_icons=true&count_private=true&hide_border=true&theme=dark" />
 
 
 ##  My Capabilities 
