@@ -1,10 +1,15 @@
 <div align="Center">
  
-# Melkamu Tessema Full-Stack software  Developer👨‍💻
+# Melkamu Tessema Full-Stack Developer👨‍💻 <img src="https://komarev.com/ghpvc/?username=melkamu372&&style=flat-square" align="center" />
 
 </div>
 
-### Hi there 👋 I'm a self-motivated software developer
+### Hi there 👋 I'm a self-motivated You can reach out to me
+<a href="https://github.com/https://github.com/melkamu372" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  <a href="https://linkedin.com/in/https://www.linkedin.com/in/melkamu372/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> 
 
  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" style="width: 50%" />
  
@@ -14,6 +19,15 @@
 - 📫 You can reach out to me via linkedln: [https://www.linkedin.com/in/melkamu372/](https://www.linkedin.com/in/melkamu372/) 
 - 💬 You can reach out to me via Email: [melkamu372@gmail.com](mailto:melkamu372@gmail.com)
 - 🙋 Fun fact: Being creative. There is often more than one way to solve a problem. I'm not afraid to think outside the box.
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melkamu372)](https://github.com/anuraghazra/github-readme-stats) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=melkamu372&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+---
+[![GitHub Streak](https://streak-stats.demolab.com?user=melkamu372&theme=dark)](https://git.io/streak-stats) <img src="https://github-readme-stats.vercel.app/api?username=melkamu372&show_icons=true&count_private=true&hide_border=true" />
+
 
 ##  My Capabilities 
 
@@ -62,31 +76,8 @@
 <br/>  
 
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/https://github.com/melkamu372" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/melkamu372/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=melkamu372&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<br/>  
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=melkamu372&&style=flat-square" align="center" />
-</div>  
-  
 
-<br/>  
-
-<div align="center"></div>
-<br />
 
 
