@@ -16,7 +16,7 @@
 - 🙋 Fun fact: Being creative. There is often more than one way to solve a problem. I'm not afraid to think outside the box.
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=melkamu372&theme=tokyonight&row=1&margin-h=15&margin-w=50)](https://github.com/ryo-ma/github-profile-trophy) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=melkamu372&theme=tokyonight&row=1&margin-h=15&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy) 
 
 
 ---
@@ -25,8 +25,8 @@
 ---
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melkamu372&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melkamu372&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+
  
 
  
