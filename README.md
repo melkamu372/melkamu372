@@ -14,16 +14,21 @@
 - 💞️ I’m looking to collaborate on any project.
 - 🚨 I'm looking for remote work.
 - 🙋 Fun fact: Being creative. There is often more than one way to solve a problem. I'm not afraid to think outside the box.
+
+---
+[![trophy](https://github-profile-trophy.vercel.app/?username=melkamu372&theme=tokyonight&row=1&margin-h=15&margin-w=50)](https://github.com/ryo-ma/github-profile-trophy) 
+
+
 ---
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=melkamu372&theme=dark" alt="GitHub Streak" width="48%"></a><img src="https://github-readme-stats.vercel.app/api?username=melkamu372&show_icons=true&count_private=true&hide_border=true&theme=dark" width="45%"/> 
  
 ---
-<div align="center"> 
- 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melkamu372&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 </a>
  
- </div>
+
  
 ---
 
