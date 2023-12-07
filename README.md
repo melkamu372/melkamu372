@@ -1,7 +1,7 @@
 <div align="Center">
 </div>
 
-### Hi there 👋 I'm Melkamu self-motivated Full Stack Developer👨‍💻  you can reach out me via 
+### Hi there 👋 Happy to see that you're interested in my profile! 👨‍💻 
 
 [![LinkedIn badge](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melkamu372/")
 [![GitHub badge](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/melkamu372)
@@ -9,11 +9,17 @@
 [![Telegram badge](https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/melkamu372)
 [![WhatsApp badge](https://img.shields.io/badge/whatsapp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+251945272182)
 
+- 🙋 I'm a Full Stack developer; I have a lot of experience in web development.
+- 🚨I have good skills to built web Application using Node ,React, PHP, HTML, CSS, js, bootstrap, Material UI...
+- 🚨 Frameworks: React,Express.js,Laravel,CodeIgniter Angular...
+- 🚨 Database: SQL(MySql, MariaDB, SQL Server ...) and NoSQL(MongoDB,)
+- 🚨 Familiar with Github, GitLab, Fork, Postman, Apiplatform
+
+---
+I'm exiting to get new and big challenging projects.
+Contact me @
 - 💬 Via Email: [melkamu372@gmail.com](mailto:melkamu372@gmail.com)
 - 👨‍💻 Website: [https://melkamu372.github.io/Melkamu-profile/](https://melkamu372.github.io/Melkamu-profile/) 
-- 💞️ I’m looking to collaborate on any project.
-- 🚨 I'm looking for remote work.
-- 🙋 Fun fact: Being creative. There is often more than one way to solve a problem. I'm not afraid to think outside the box.
 
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=melkamu372&theme=tokyonight&row=1&margin-h=15&margin-w=35)](https://github.com/ryo-ma/github-profile-trophy) 
