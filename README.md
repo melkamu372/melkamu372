@@ -9,7 +9,7 @@
 [![Telegram badge](https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/melkamu372)
 [![WhatsApp badge](https://img.shields.io/badge/whatsapp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+251945272182)
 
-- 🙋 I'm a Full Stack developer; I have a lot of experience in Appication development.
+- 🙋 I'm a Full Stack developer; I have a lot of experience in Application development.
 - 🚨I have good skills to built web Application using Node ,React, PHP, HTML, CSS, js, bootstrap, Material UI...
 - 🚨 Frameworks: React,Express.js,Laravel,CodeIgniter Angular...
 - 🚨 Database: SQL(MySql, MariaDB, SQL Server ...) and NoSQL(MongoDB,)
