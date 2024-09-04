@@ -38,7 +38,7 @@ Contact me @
 
 <table>
  <tr><th colspan="3"><h4> Skill Set</h4> </th> </tr>
- <tr><td valign="top" width="33%">
+ <tr><td valign="top" width="50%">
   
 ### DevOps  
 <div>  
@@ -64,7 +64,21 @@ Contact me @
 </div>
 
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
+
+ ### Frontend  
+<div>  
+ 
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/3.4/javascript/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)](https://www.javascript.com/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Angular](https://img.shields.io/badge/Angular-E23237?style=flat&logo=angular&logoColor=white)](https://angular.io/) 
+ 
+</div>
+
 
 ### Backend  
 <div>  
@@ -79,21 +93,10 @@ Contact me @
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 </div>
-</td><td valign="top" width="33%">
 
- ### Frontend  
-<div>  
- 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/3.4/javascript/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)](https://www.javascript.com/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Angular](https://img.shields.io/badge/Angular-E23237?style=flat&logo=angular&logoColor=white)](https://angular.io/) 
- 
-</div>
+
 </td></tr></table> 
+
 <img src="https://komarev.com/ghpvc/?username=melkamu372&&style=flat-square" align="center" />
 
 
