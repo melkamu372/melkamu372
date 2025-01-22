@@ -11,10 +11,10 @@
 
 - 🙋 I’m  Cloud and DevOps Engineer and currently learning Kubernetes
 - 👯 I’m looking to collaborate on DevOps and Cloud projects.
-- 🚨 Former Software developer; I have a lot of experience in Application development.
-- 🚨I have good skills to built web Application using Node ,React, PHP, HTML, CSS, js, bootstrap, Material UI...
+- 🚨  I have a lot of experience in Application development.
+- 🚨I have good skills to built web Application using Python, Node ,React, PHP , HTML, CSS, js, bootstrap, Material UI...
 - 🚨 Frameworks: React,Express.js,Laravel,CodeIgniter Angular...
-- 🚨 Database: SQL(MySql, MariaDB, SQL Server ...) and NoSQL(MongoDB,)
+- 🚨 Database: PostgreSQL,  MongoDB, MySql, MariaDB, SQL Server ... 
 - 🚨 Familiar with Github, GitLab, Fork, Postman, Apiplatform
 
 ---
@@ -82,16 +82,18 @@ Contact me @
 
 ### Backend  
 <div>  
+
  
 [![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)](https://dotnet.microsoft.com/download/dotnet-framework)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)
-[![Laravel](https://img.shields.io/badge/Laravel-E14F2A?style=flat&logo=laravel&logoColor=white)](https://laravel.com/)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)](https://dotnet.microsoft.com/download/dotnet-framework)
 [![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Java](https://img.shields.io/badge/Java-D72B1A?style=flat&logo=java&logoColor=white)](https://www.java.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 </div>
 
 
